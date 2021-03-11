@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC3-GamblerWonorLost", "UC3-GamblerWonorLost\UC3-GamblerWonorLost.csproj", "{583654D6-8817-4E0E-BDB0-4951BF911B7D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC4-Gamblerfor20days", "UC4-Gamblerfor20days\UC4-Gamblerfor20days.csproj", "{50D0C203-8850-4090-BB33-CB863C9AC298}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{583654D6-8817-4E0E-BDB0-4951BF911B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{583654D6-8817-4E0E-BDB0-4951BF911B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{583654D6-8817-4E0E-BDB0-4951BF911B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{583654D6-8817-4E0E-BDB0-4951BF911B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50D0C203-8850-4090-BB33-CB863C9AC298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D0C203-8850-4090-BB33-CB863C9AC298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D0C203-8850-4090-BB33-CB863C9AC298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D0C203-8850-4090-BB33-CB863C9AC298}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {37F6384E-71F1-4910-8E9D-A8862DEB88D5}
+		SolutionGuid = {99E252E4-814C-43DB-8FE4-2DAE5140DA65}
 	EndGlobalSection
 EndGlobal
